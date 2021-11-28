@@ -212,7 +212,7 @@ function showMessage({
   type,
   message = "",
   data = {},
-  timeout = 60000,
+  timeout = 30000,
   attribs = {},
 } = {}) {
   let chatLine_ = document.createElement("div");
