@@ -35,7 +35,7 @@ body {
   height: 18px;
 }
 .chat-line .chat-line-inner.admin .message {
-  opacity: 0.4;
+  opacity: 0.8;
 }
 
 .user-name {
