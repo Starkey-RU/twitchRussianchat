@@ -39,12 +39,12 @@ body {
 }
 
 .user-name {
-  color: #ff6bb5;
+  color: #e69138;
 }
 
 .message img {
   vertical-align: text-bottom;
 }
 .message img.emoji {
-  width: 20px;
+  width: 40px;
 }
