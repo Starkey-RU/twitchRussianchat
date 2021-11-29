@@ -30,8 +30,8 @@ body {
 }
 .chat-line .chat-line-inner .badges img.badge {
   margin-right: 6px;
-  vertical-align: text-bottom;
-  width: 24px;
+  vertical-align: middle; /* text bottom*/
+  width: 24px; /* 18px */
   height: 24px;
 }
 .chat-line .chat-line-inner.admin .message {
