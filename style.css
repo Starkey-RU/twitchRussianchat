@@ -44,8 +44,8 @@ body {
 }
 
 .message img {
-  vertical-align: text-bottom;
+  vertical-align: middle;
 }
 .message img.emoji {
-  width: 40px;
+  width: 28px;
 }
