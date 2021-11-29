@@ -31,8 +31,8 @@ body {
 .chat-line .chat-line-inner .badges img.badge {
   margin-right: 6px;
   vertical-align: text-bottom;
-  width: 18px;
-  height: 18px;
+  width: 24px;
+  height: 24px;
 }
 .chat-line .chat-line-inner.admin .message {
   opacity: 0.8;
