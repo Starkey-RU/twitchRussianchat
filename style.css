@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Overpass");
 body {
-  background: transparent;
+  background: #030303; 
   color: LightGray;
   font-family: 'Overpass', sans-serif;
   font-size: 20px;
